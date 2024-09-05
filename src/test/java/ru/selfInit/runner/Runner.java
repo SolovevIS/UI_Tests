@@ -9,7 +9,7 @@ import ru.selfInit.utils.Utils;
 @RunWith(Cucumber.class)
 @CucumberOptions(
         features = "classpath:features",
-        tags="@filters_accessories_yandex",
+        tags="",
         glue = {"ru.selfInit.stepDefinition",
                 "ru.selfInit.hooks"}
 )
