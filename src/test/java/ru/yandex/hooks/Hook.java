@@ -1,11 +1,11 @@
-package ru.selfInit.hooks;
+package ru.yandex.hooks;
 
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
 import io.cucumber.java.BeforeAll;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-import ru.selfInit.utils.Driver;
+import ru.yandex.utils.Driver;
 
 import java.io.IOException;
 import java.nio.file.Files;

@@ -1,9 +1,9 @@
-package ru.selfInit.stepDefinition;
+package ru.yandex.stepDefinition;
 
 
 import io.cucumber.java.en.And;
-import ru.selfInit.utils.Driver;
-import ru.selfInit.utils.Utils;
+import ru.yandex.utils.Driver;
+import ru.yandex.utils.Utils;
 
 public class StepDef {
 
