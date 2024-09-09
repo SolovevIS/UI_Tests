@@ -1,4 +1,4 @@
-package ru.selfInit.exception;
+package ru.yandex.exception;
 
 public class WrongXpathException extends Exception{
 

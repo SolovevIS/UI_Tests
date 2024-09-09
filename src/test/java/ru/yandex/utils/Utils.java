@@ -1,8 +1,8 @@
-package ru.selfInit.utils;
+package ru.yandex.utils;
 
 import org.junit.Assert;
 import org.openqa.selenium.By;
-import ru.selfInit.exception.WrongXpathException;
+import ru.yandex.exception.WrongXpathException;
 
 import java.io.File;
 import java.io.IOException;

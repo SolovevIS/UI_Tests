@@ -1,11 +1,11 @@
-package ru.selfInit.utils;
+package ru.yandex.utils;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.interactions.Actions;
-import ru.selfInit.waits.DriverWaits;
+import ru.yandex.waits.DriverWaits;
 
 import java.io.File;
 import java.util.HashMap;
